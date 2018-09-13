@@ -1,0 +1,23 @@
+{ "data":
+        { "name": [ "Petya" ],
+          "age": [ "23" ],
+          "sex": [ "true" ],
+          "languages": [
+                        { "language": [
+                                      { "_": "9", "$": { "name": "Python" } },
+                                      { "_": "7", "$": { "name": "Java" } },
+                                      { "_": "8", "$": { "name": "C#" } }
+                                    ]
+                        }
+                      ],
+          "pc": [
+                { "pc_item": [
+                            { "_": "Linux", "$": { "name": "os" } },
+                            { "_": "Intel Core i7-8700", "$": { "name": "proc" } },
+                            { "_": "64", "$": { "name": "ram" } },
+                            { "_": "5000", "$": { "name": "hard" } }
+                            ]
+                }
+              ]
+        }
+}
